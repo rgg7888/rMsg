@@ -1,6 +1,6 @@
 {
   "name": "rmsg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random messages",
   "main": "src/index.js",
   "bin": {
