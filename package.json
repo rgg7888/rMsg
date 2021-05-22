@@ -1,0 +1,22 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "messages",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "RamiroGG <rgg7888@outlook.com>",
+  "license": "MIT",
+  "bin": {
+    "rMsg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
