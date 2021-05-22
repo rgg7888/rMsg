@@ -2,7 +2,7 @@
 <pre>
 instalacion :
 
-npm 
+npm i -g rmsg
 </pre>
 <pre>
 Para ejecutar este programa 
